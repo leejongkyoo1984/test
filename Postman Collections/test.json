@@ -16,6 +16,18 @@
         "description": "test\n"
       },
       "response": []
+    },
+    {
+      "_postman_id": "3f2c5de4-d756-11ee-51a7-4c7e9a207ffa",
+      "name": "test2",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "body": {},
+        "url": "",
+        "description": "test"
+      },
+      "response": []
     }
   ]
 }

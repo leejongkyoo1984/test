@@ -28,18 +28,6 @@
         "description": "test\n"
       },
       "response": []
-    },
-    {
-      "_postman_id": "9b6fa6f7-9dea-94fc-757a-e98a3ac31867",
-      "name": "aslkdfjlk",
-      "request": {
-        "method": "GET",
-        "header": [],
-        "body": {},
-        "url": "",
-        "description": "asdf"
-      },
-      "response": []
     }
   ]
 }
